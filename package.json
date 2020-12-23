@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/Paratron/hookrouter#readme",
   "peerDependencies": {
-    "react": "^16.8.0"
+    "react": "^16.8.0 || ^17"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
